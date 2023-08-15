@@ -1,4 +1,8 @@
 <h1 align="center">Hi 👋, I'm Damian Caetano</h1>
+<p align="center">
+  <img src="[https://github.com/thompsonemerson/thompsonemerson/raw/master/cover-thompson.png](https://drive.google.com/drive/my-drive)" height="200"/>
+</p>
+
 <h3 align="center">A Backend Developer with Java</h3>
 
 <h3 align="left">Connect with me:</h3>
