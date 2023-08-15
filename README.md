@@ -1,7 +1,5 @@
 <h1 align="center">Hi 👋, I'm Damian Caetano</h1>
-<p align="center">
-  <img src="https://github.com/Damian25121997/Damian25121997/blob/main/Banner%20para%20Github.png" height="300"/>
-</p>
+<img src="https://github.com/Damian25121997/Damian25121997/blob/main/Banner%20para%20Github.png"/>
 
 <h3 align="center">A Backend Developer with Java</h3>
 
